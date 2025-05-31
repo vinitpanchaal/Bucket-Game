@@ -180,7 +180,7 @@ To host this project on GitHub:
 
 3.  Add this README.md and commit
 
-🔗 **Suggested Repo URL**:\
+🔗 **Repo URL**:\
 https://github.com/vinitpanchaal/Bucket-Game
 
 💡 Getting Started (Base Setup)
@@ -208,18 +208,12 @@ Try to beat your high score every time. 🚀
 
 Home Screen
 
-![A screenshot of a video game AI-generated content may be
-incorrect.](media/image1.png){width="3.865122484689414in"
-height="8.428260061242344in"}
+![alt text](image.png)
 
 Game Screen
 
-![A person in a suit and tie AI-generated content may be
-incorrect.](media/image2.png){width="3.854704724409449in"
-height="8.449095581802275in"}
+![alt text](image-1.png)
 
 Pause Screen
 
-![A screenshot of a menu AI-generated content may be
-incorrect.](media/image3.png){width="3.854704724409449in"
-height="8.428260061242344in"}
+![alt text](image-2.png)
